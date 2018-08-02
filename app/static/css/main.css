@@ -1,0 +1,18 @@
+table.dataframe, .dataframe th, .dataframe td {
+  margin-top: 50px;
+  border: none;
+  border-bottom: 1px solid #C8C8C8;
+  border-collapse: collapse;
+  text-align:left;
+  padding: 10px;
+  margin-bottom: 40px;
+  font-size: 0.9em;
+}
+
+#my_dr {
+  overflow-x: scroll;
+}
+
+#graph {
+  width: 100%;
+}
